@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE receta>
+<!--Por Manuel Ramos-->
+
+<receta>
+    <ingredientes>
+        <ingrediente nombre="cebollas" cantidad="1" unidad="kg"/>
+        <ingrediente nombre="caldo_de_carne" cantidad="2" unidad="l"/>
+        <ingrediente nombre="mantequilla" cantidad="100" unidad="g"/>
+        <ingrediente nombre="sal" cantidad="1" unidad="pizca"/>
+        <ingrediente nombre="queso_mozzarella" cantidad="100" unidad="g"/>
+        <ingrediente nombre="carne_picada" cantidad="1" unidad="kg"/>
+        <ingrediente nombre="tomates" cantidad="2" unidad="kg"/>
+    </ingredientes>
+    <proceso>
+        <paso id="1">Pelar y partir las cebollas en rodajas finas.</paso>
+        <paso id="2">Rehogarlas con la mantequilla, sal a fuego lento hasta que estén transparentes sin dorarse. </paso>
+        <paso id="3">Añadir la carne picada sin dejar de remover.  </paso>
+        <paso id="4">Cuando la carne esté hecha añadir el tomate pelado y sin pepitas.</paso>
+        <paso id="5">Dejar cocer a fuego lento durante unos 8 minutos.</quinto_paso>
+        <paso id="6">Espolvorear el queso y gratinar al horno.</paso>
+    </proceso>
+
+
+</receta>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda>
+<!--Por Manuel Ramos-->
+
+<agenda>
+    <persona id="1" nombre="Manuel" apellidos="Ramos" direccion="C/Rue del Percebe Nº9" tlf_casa="666666666" tlf_trabajo="666666666" tlf_movil="666666666"/>
+</agenda>
