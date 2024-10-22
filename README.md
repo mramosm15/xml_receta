@@ -14,3 +14,5 @@ Ejercicio de la receta hecho en clase receta.xml y agenda.xml por parte de asir1
 ![GIF 5](https://tenor.com/oHg1i12GDRx.gif)
 
 ![GIF 6](https://tenor.com/1SWt.gif)
+
+<div class="tenor-gif-embed" data-postid="12803515" data-share-method="host" data-aspect-ratio="0.900901" data-width="100%"><a href="https://tenor.com/view/sabrina-spellman-ritual-the-chilling-adventures-of-sabrina-sabrina-netflix-gif-12803515">Sabrina Spellman Ritual GIF</a>from <a href="https://tenor.com/search/sabrina+spellman-gifs">Sabrina Spellman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
